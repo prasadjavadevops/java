@@ -7,3 +7,4 @@ www
 sonarqube
 aws
 aws2
+aws3
