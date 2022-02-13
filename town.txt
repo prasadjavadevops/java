@@ -1,3 +1,9 @@
 bangalore
 delhi
 chennai
+<<<<<<< HEAD
+=======
+=======
+bangalore
+>>>>>>> parent of a63c45b (file added)
+>>>>>>> parent of 3634d12 (text2)
