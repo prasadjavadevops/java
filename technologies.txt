@@ -2,3 +2,4 @@ ansible
 tomcat
 nexus
 sonarqube
+hadoop
