@@ -1,13 +1,3 @@
 bangalore
 delhi
-<<<<<<< HEAD
-<<<<<<< HEAD
-chennai
-=======
-bangalore
->>>>>>> parent of a63c45b (file added)
-=======
->>>>>>> parent of 8b18ddd (text chennai)
-=======
-chennai
->>>>>>> parent of 737a116 (text)
+chennai 
