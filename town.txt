@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 bangalore
 delhi
 chennai
+=======
+bangalore
+>>>>>>> parent of a63c45b (file added)
