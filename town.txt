@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 bangalore
 delhi
+<<<<<<< HEAD
 chennai
 =======
 bangalore
 >>>>>>> parent of a63c45b (file added)
+=======
+>>>>>>> parent of 8b18ddd (text chennai)
