@@ -3,3 +3,7 @@ tomcat
 nexus
 sonarqube
 hadoop
+www
+sonarqube
+aws
+aws2
