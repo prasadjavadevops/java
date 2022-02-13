@@ -8,3 +8,4 @@ sonarqube
 aws
 aws2
 aws3
+golang
