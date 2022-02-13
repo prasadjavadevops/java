@@ -2,3 +2,5 @@ ansible
 tomcat
 www
 sonarqube
+aws
+aws2
