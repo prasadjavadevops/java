@@ -1,9 +1,4 @@
 ansible
 tomcat
-<<<<<<< HEAD
 www
 sonarqube
-=======
-nexus
-sonarqube
->>>>>>> 19e1e292d1d226ba3a3462b0d8486ba51f8c4882
