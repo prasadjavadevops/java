@@ -2,8 +2,5 @@ bangalore
 delhi
 chennai 
 chennai
-<<<<<<< HEAD
-=======
 mumbai
 
->>>>>>> af2bda1c187a42531b4a28671454e227df2e996d
