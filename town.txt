@@ -1,7 +1,5 @@
 bangalore
 delhi
-<<<<<<< HEAD
 chennai 
-=======
 chennai
->>>>>>> parent of 737a116 (text)
+mumbai
