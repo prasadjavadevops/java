@@ -2,4 +2,3 @@ bangalore
 delhi
 chennai 
 chennai
-mumbai
