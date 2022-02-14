@@ -1,7 +1,6 @@
 ansible
 tomcat
 nexus
-<<<<<<< HEAD
 sonarqube
 hadoop
 www
@@ -10,6 +9,5 @@ aws
 aws2
 aws3
 golang
-=======
-sonarqube
->>>>>>> parent of 6402a3c (files added)
+kubernetes
+sonarqube 
