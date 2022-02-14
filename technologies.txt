@@ -9,3 +9,4 @@ aws
 aws2
 aws3
 golang
+kubernetes
